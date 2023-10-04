@@ -1,0 +1,22 @@
+{
+  "name": "@nvtaikma/roundsildefirebase",
+  "version": "1.0.0",
+  "description": "round slide with firebase",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/nvtaikma/round_slide_fb.git"
+  },
+  "keywords": [
+    "roundSlide_firebase"
+  ],
+  "author": "nvtaikma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nvtaikma/round_slide_fb/issues"
+  },
+  "homepage": "https://github.com/nvtaikma/round_slide_fb#readme"
+}
