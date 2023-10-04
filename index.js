@@ -5,7 +5,7 @@ function listen_change_value(idHtml, valueData) {
   });
 }
 
-function query_sliders(id, value) {
+function query_slider(id, value) {
   $(document).ready(function () {
     $(`#${id}`).roundSlider({
       circleShape: "half-top",
